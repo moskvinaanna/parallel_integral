@@ -1,0 +1,3 @@
+﻿  parallel_integral.cpp
+c:\users\anna\source\repos\parallel_integral\parallel_integral\parallel_integral.cpp(38): warning C4101: 'e': unreferenced local variable
+  parallel_integral.vcxproj -> C:\Users\Anna\source\repos\parallel_integral\x64\Debug\parallel_integral.exe
